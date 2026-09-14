@@ -1,33 +1,120 @@
-# interleace.github.io
-# Hi, I'm Interleace! 👋
+<h1 align="center">Hi 👋, I'm Michael</h1>
+<h3 align="center">A passionate developer from Germany</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p
+ align="left"> <img 
+src="https://komarev.com/ghpvc/?username=interleace&label=Profile%20views&color=0e75b6&style=flat"
+ alt="interleace" /> </p>
 
-💬 Ask me about...
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![9P](https://img.shields.io/badge/9P-plan9%20network%20protocol-222222?style=for-the-badge)
-![katalog](https://img.shields.io/badge/katalog-indexed%20collection-444444?style=for-the-badge)
-![generator](https://img.shields.io/badge/generator-first--class%20program-005f87?style=for-the-badge)
-![awk](https://img.shields.io/badge/awk-pattern%20scanner%20%26%20transformer-7a3e9d?style=for-the-badge)
-![Modullator](https://img.shields.io/badge/Modullator-meta%20module%20orchestrator-0f766e?style=for-the-badge)
-
-
-## 🚀 About Me
-I'm a full stack developer trying to find the ballance for front-end wihin backend tool-set. Basically an backwards approach.
-
-I played Minecraft 2011-2015 a lot, also after up to this day developing mostly plugins for the minecraft server platform.
-
-I experiment with Code, Sound, Music and the Computer.
-Code spreads through topics.
-
-## Credits
-
-Check out these things, they're awesome and helped me at some point.
-
-- <img align="center" src="https://www.google.com/s2/favicons?domain=readme.so&sz=32" width="16" height="16"> <a href="https://readme.so/editor">readme.so</a>  
-  Simple README editor with live preview and templates.
+<h3 align="left">Languages and Tools:</h3>
+<p
+ align="left">
+        <a href="https://developer.android.com" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+ alt="android" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.gnu.org/software/bash/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
+alt="bash" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.docker.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+ alt="docker" width="40" height="40"/>
+        </a>
+         
+        <a href="https://git-scm.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+alt="git" width="40" height="40"/>
+        </a>
+         
+        <a href="https://gohugo.io/" target="_blank" 
+rel="noreferrer">
+          <img src="https://api.iconify.design/logos-hugo.svg" 
+alt="hugo" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.java.com" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+ alt="java" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.jenkins.io" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" 
+alt="jenkins" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.linux.org/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+ alt="linux" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.mongodb.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+ alt="mongodb" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.mysql.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+ alt="mysql" width="40" height="40"/>
+        </a>
+         
+        <a href="https://opencv.org/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" 
+alt="opencv" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.photoshop.com/en" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+ alt="photoshop" width="40" height="40"/>
+        </a>
+         
+        <a href="https://redis.io" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+ alt="redis" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.sqlite.org/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" 
+alt="sqlite" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.tensorflow.org" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
+alt="tensorflow" width="40" height="40"/>
+        </a>
+        </p>
 
